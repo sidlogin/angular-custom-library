@@ -1,3 +1,6 @@
+First-ts-package folder contains all initial files to create npm package.
+First-consumer - Import first created package in main.ts file for use.
+
 # Typescript Config for typescript code compilation
      - tsconfig.json: typescript config file to compile typescipt code in to js code for the all the files under source folder.
      
